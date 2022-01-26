@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "895324174609",
+    "firebase_url": "https://talktomealways-8488c-default-rtdb.firebaseio.com",
+    "project_id": "talktomealways-8488c",
+    "storage_bucket": "talktomealways-8488c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895324174609:android:7701f30eeaf758c96af4b0",
+        "android_client_info": {
+          "package_name": "com.TheDen.TalkToMe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895324174609-oalreglt4rm4mvc76jkvhhva1hs2h92i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAhdveWcyCBIyU5sqHiamxh4jkP0fqVZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895324174609-oalreglt4rm4mvc76jkvhhva1hs2h92i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895324174609:android:bb3c6e8b42c26d3f6af4b0",
+        "android_client_info": {
+          "package_name": "com.example.TheDenPublications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895324174609-oalreglt4rm4mvc76jkvhhva1hs2h92i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAhdveWcyCBIyU5sqHiamxh4jkP0fqVZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895324174609-oalreglt4rm4mvc76jkvhhva1hs2h92i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
